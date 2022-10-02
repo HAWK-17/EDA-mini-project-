@@ -12,12 +12,12 @@ Test underlying assumptions.
 Determine optimal factor settings
 
 Outline of Project
-Select and download real-world dataset
-Import and Install all the libraries
-Perform data preparation & cleaning
-Ask & answer questions about the data
-Perform exploratory analysis & visualization
-Summarize your inferences & write a conclusion
+	Select and download real-world dataset
+	Import and Install all the libraries
+	Perform data preparation & cleaning
+	Ask & answer questions about the data
+	Perform exploratory analysis & visualization
+	Summarize your inferences & write a conclusion
 
 
 Dataset Link:-https://www.kaggle.com/datasets/peopledatalabssf/free-7-million-company-dataset
