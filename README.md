@@ -11,13 +11,13 @@ Detect outliers and anomalies.
 Test underlying assumptions.
 Determine optimal factor settings
 
-Outline of Project
-	Select and download real-world dataset
-	Import and Install all the libraries
-	Perform data preparation & cleaning
-	Ask & answer questions about the data
-	Perform exploratory analysis & visualization
-	Summarize your inferences & write a conclusion
+Outline of Project:-
+	<1>  Select and download real-world dataset
+	<2>  Import and Install all the libraries
+	<3>  Perform data preparation & cleaning
+	<4>  Ask & answer questions about the data
+	<5>  Perform exploratory analysis & visualization
+	<6>  Summarize your inferences & write a conclusion
 
 
 Dataset Link:-https://www.kaggle.com/datasets/peopledatalabssf/free-7-million-company-dataset
